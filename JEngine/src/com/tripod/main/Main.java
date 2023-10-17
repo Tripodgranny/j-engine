@@ -7,7 +7,7 @@ public class Main {
 		
 		Log.code(Log.VERSION);
 		
-		Game game = new Game("Dungeons", 960, 6);
+		Game game = new Game("Dungeons", 320, 3);
 		game.start();
 		
 	}
